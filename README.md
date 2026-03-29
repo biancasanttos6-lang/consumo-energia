@@ -1,3 +1,7 @@
+<p align="center">
+<img src="IMG_0625.png" alt="Capa do Projeto" width="100%">
+</p>
+
 # ⚡ Calculadora de Consumo de Energia
 
 Este programa foi desenvolvido para auxiliar no cálculo do consumo mensal de eletrodomésticos, convertendo a potência em Watts para quilowatts-hora (kWh).

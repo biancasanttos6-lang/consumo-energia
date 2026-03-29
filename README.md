@@ -1,6 +1,4 @@
-<p align="center">
-<img src="IMG_0625.png" alt="Capa do Projeto" width="100%">
-</p>
+<img width="1408" height="768" alt="IMG_0625" src="https://github.com/user-attachments/assets/3e3e547f-cd62-4897-9cbc-d821b257879c" />
 
 # ⚡ Calculadora de Consumo de Energia
 
